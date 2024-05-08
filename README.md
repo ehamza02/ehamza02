@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erfan Hamza
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently a sophomore majoring in computer science
+- 👀 I’m interested in software engineering and machine learning
+- 🌱 I’m currently a junior majoring in computer science
 - 📫 How to reach me: Email: erfanhamza02@gmail.com  Phone: 301-642-7361
 
 <!---
